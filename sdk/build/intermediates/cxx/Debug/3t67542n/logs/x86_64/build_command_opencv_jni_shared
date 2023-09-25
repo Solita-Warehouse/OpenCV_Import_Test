@@ -1,0 +1,4 @@
+/Users/gianou/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/gianou/AndroidStudioProjects/OpenCV_V6/sdk/.cxx/Debug/3t67542n/x86_64 \
+  opencv_jni_shared
